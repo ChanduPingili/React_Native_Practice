@@ -8,7 +8,7 @@ It Generates the random password from 4 to 16 characters that includes numbers ,
 # Roll the Dice 04 :
 On every click it rolls the dice. In this I learnt how to handle images and React-native-haptic-feedback library.
 # Currency Convertor 05 :
-In this practice I learn't about snackbar, flatlist, pressable items.
+In this practice I learn't about snackbar, flatlist, pressable items, data fetching.
 # Tic Tac Toa 06 :
 In this practice I learn't about react-native-vector-icons , propwithchildren and validation, conditional rendering with usestate
 # Spotify_Clone_07 :
